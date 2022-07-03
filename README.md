@@ -9,7 +9,7 @@ This is a very simple marketplace dapp where users can:
 * Add your own products to the dapp
 
 ## Live Demo
-[Marketplace Dapp](ttps://alysiahuggins.github.io/dacade-celo-dapp-101-demo/)
+[Marketplace Dapp](https://alysiahuggins.github.io/dacade-celo-dapp-101-demo/)
 
 ## Usage
 
